@@ -272,6 +272,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"sitediffer/Preview Content\"";
+				DEVELOPMENT_TEAM = 84476NUWZH;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = sitediffer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -294,6 +295,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"sitediffer/Preview Content\"";
+				DEVELOPMENT_TEAM = 84476NUWZH;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = sitediffer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (

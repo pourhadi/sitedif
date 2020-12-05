@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "192DEAE3-429D-4532-B1CD-732BCB42BDCE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "012E04D0-662B-476F-B74D-F72ED4A76642"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sitediffer/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "webView(_:didCommit:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "012E04D0-662B-476F-B74D-F72ED4A76642 - e0514636c6888019"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sitediffer.WebView.Coordinator.webView(_: __C.WKWebView, didCommit: Swift.Optional&lt;__C.WKNavigation&gt;) -&gt; ()"
+                  moduleName = "sitediffer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielpourhadi/Projects/sitediffer/sitediffer/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "012E04D0-662B-476F-B74D-F72ED4A76642 - 4926f7a5f71b25b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in sitediffer_PreviewReplacement_ContentView_6):sitediffer.WebView.Coordinator.(__preview__webView in _DAC941066752FC7B47AFAD3CDEB4E32B)(_: __C.WKWebView, didCommit: Swift.Optional&lt;__C.WKNavigation&gt;) -&gt; ()"
+                  moduleName = "ContentView.6.preview-thunk.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielpourhadi/Projects/sitediffer/sitediffer/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30E5B5C1-169C-4C3C-B910-19DAFF834DD3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sitediffer/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "30E5B5C1-169C-4C3C-B910-19DAFF834DD3 - c5de9b85a89e2cb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.background&lt;A where A1: SwiftUI.View&gt;(_: A1, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt; in sitediffer.ContentView.body.getter : some"
+                  moduleName = "sitediffer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielpourhadi/Projects/sitediffer/sitediffer/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "30E5B5C1-169C-4C3C-B910-19DAFF834DD3 - e5904833dfc28f61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.background&lt;A where A1: SwiftUI.View&gt;(_: A1, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt; in (extension in sitediffer_PreviewReplacement_ContentView_6):sitediffer.ContentView.(__preview__body in _DAC941066752FC7B47AFAD3CDEB4E32B).getter : some"
+                  moduleName = "ContentView.6.preview-thunk.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielpourhadi/Projects/sitediffer/sitediffer/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CCCDA6D-C067-45F0-AA3A-747078678212"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sitediffer/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "webView(_:didStartProvisionalNavigation:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3CCCDA6D-C067-45F0-AA3A-747078678212 - b95298083d60d09c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sitediffer.WebView.Coordinator.webView(_: __C.WKWebView, didStartProvisionalNavigation: Swift.Optional&lt;__C.WKNavigation&gt;) -&gt; ()"
+                  moduleName = "sitediffer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielpourhadi/Projects/sitediffer/sitediffer/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "3CCCDA6D-C067-45F0-AA3A-747078678212 - 9f8373b2aa14a894"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in sitediffer_PreviewReplacement_ContentView_6):sitediffer.WebView.Coordinator.(__preview__webView in _DAC941066752FC7B47AFAD3CDEB4E32B)(_: __C.WKWebView, didStartProvisionalNavigation: Swift.Optional&lt;__C.WKNavigation&gt;) -&gt; ()"
+                  moduleName = "ContentView.6.preview-thunk.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielpourhadi/Projects/sitediffer/sitediffer/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFFE31D9-4993-4355-AEE0-B25E546FA435"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sitediffer/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "webView(_:didFinish:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FFFE31D9-4993-4355-AEE0-B25E546FA435 - a9ce1f03f03c509f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.WKFindResult) -&gt; () in sitediffer.WebView.Coordinator.webView(_: __C.WKWebView, didFinish: Swift.Optional&lt;__C.WKNavigation&gt;) -&gt; ()"
+                  moduleName = "sitediffer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielpourhadi/Projects/sitediffer/sitediffer/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "FFFE31D9-4993-4355-AEE0-B25E546FA435 - ceac9b7b55956781"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.WKFindResult) -&gt; () in (extension in sitediffer_PreviewReplacement_ContentView_6):sitediffer.WebView.Coordinator.(__preview__webView in _DAC941066752FC7B47AFAD3CDEB4E32B)(_: __C.WKWebView, didFinish: Swift.Optional&lt;__C.WKNavigation&gt;) -&gt; ()"
+                  moduleName = "ContentView.6.preview-thunk.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielpourhadi/Projects/sitediffer/sitediffer/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4783D64C-B962-4524-831B-92207DC8183F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sitediffer/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "updateNSView(_:context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A5815A5-231E-46ED-A0A8-D10D6990F5CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sitediffer/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "updateNSView(_:context:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8A5815A5-231E-46ED-A0A8-D10D6990F5CC - ac43795384b4c1d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sitediffer.WebView.updateNSView(_: __C.WKWebView, context: SwiftUI.NSViewRepresentableContext&lt;sitediffer.WebView&gt;) -&gt; ()"
+                  moduleName = "sitediffer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielpourhadi/Projects/sitediffer/sitediffer/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "912">
+               </Location>
+               <Location
+                  uuid = "8A5815A5-231E-46ED-A0A8-D10D6990F5CC - a1f1cc888b21adae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in sitediffer_PreviewReplacement_ContentView_6):sitediffer.WebView.(__preview__updateNSView in _DAC941066752FC7B47AFAD3CDEB4E32B)(_: __C.WKWebView, context: SwiftUI.NSViewRepresentableContext&lt;sitediffer.WebView&gt;) -&gt; ()"
+                  moduleName = "ContentView.6.preview-thunk.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielpourhadi/Projects/sitediffer/sitediffer/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "768">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51CA5A6D-F98D-4120-8137-B08990F6FFD4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sitediffer/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "updateNSView(_:context:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "51CA5A6D-F98D-4120-8137-B08990F6FFD4 - ac43795384b4c209"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sitediffer.WebView.updateNSView(_: __C.WKWebView, context: SwiftUI.NSViewRepresentableContext&lt;sitediffer.WebView&gt;) -&gt; ()"
+                  moduleName = "sitediffer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielpourhadi/Projects/sitediffer/sitediffer/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "436">
+               </Location>
+               <Location
+                  uuid = "51CA5A6D-F98D-4120-8137-B08990F6FFD4 - a1f1cc888b21ae71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in sitediffer_PreviewReplacement_ContentView_6):sitediffer.WebView.(__preview__updateNSView in _DAC941066752FC7B47AFAD3CDEB4E32B)(_: __C.WKWebView, context: SwiftUI.NSViewRepresentableContext&lt;sitediffer.WebView&gt;) -&gt; ()"
+                  moduleName = "ContentView.6.preview-thunk.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielpourhadi/Projects/sitediffer/sitediffer/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B2C66E7-82A8-43D0-B861-7E8958180797"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sitediffer/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
